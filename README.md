@@ -1,29 +1,21 @@
 # vue-ssr
 
-## Project setup
+## 依赖安装
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发
+
 ```
-yarn serve
+yarn dev
+# or
+yarn start
 ```
 
-### Compiles and minifies for production
+### 构建
+
 ```
 yarn build
 ```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
